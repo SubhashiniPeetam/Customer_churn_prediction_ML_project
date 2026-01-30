@@ -23,7 +23,7 @@ Technologies Used:
 ** Matplotlib / Seaborn
 ** Scikit-learn
 ** Pickle (for saving trained model)
-** Jupyter Notebook
+** Google Colab Notebook
 
 Model Evaluation:
 The model performance is evaluated using:
